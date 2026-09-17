@@ -1,0 +1,15 @@
+[
+  {
+    "pfp": "leaf.jpg",
+    "pfpAlt": "A young, smiling, white man with long, light brown hair, wearing large, thin blue glasses and a blue plaid shirt.",
+    "pronouns": "he/him",
+    "resume": "https://leaferiksen.net/assets/resume.pdf",
+    "email": "mailto:leaferiksen@gmail.com",
+    "hi": "Hi, Leaf Eriksen here!",
+    "brief": "I am an interface and layout designer currently studying at the University of San Francisco who is passionate about raising the standard for style, structure and accessibility in design.",
+    "experience": "I have experience prototyping apps in Figma and bringing them to life with SwiftUI, and building websites in HTML, CSS and JS. I also enjoy making animated interactive graphics with p5.js and building layouts for print in the Adobe and Affinity suites.",
+    "location": "I am currently working as an iMac Lab Assistant and Design Tutor for USFCA’s Art & Architecture department, and as an intern at OnCourt Live, a college tennis software startup.",
+    "personal": "In my free time I enjoy playing Minecraft and Osu!, reading visual novels, and watching mecha anime. If you are in SF and think we could be good friends, let's meet up for coffee or tea sometime!",
+    "offer": "If you want to make something awesome with me, please reach out!"
+  }
+]
