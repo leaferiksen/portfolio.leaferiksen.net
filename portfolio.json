@@ -13,6 +13,18 @@
     "isInteractive": true
   },
   {
+    "id": "amgi-apple-watch",
+    "title": "Amgi",
+    "medium": "Xcode",
+    "date": "May 11th, 2026",
+    "what": "An Anki flashcards client for watchOS",
+    "why": "Anki is a critical part of my language learning process. Sadly the Anki iOS app is closed source, and the devs don’t think adding a watchOS app is worth their time.",
+    "image": "amgi.png",
+    "imageAlt": "Screenshots of Amgi app, showcasing the deck list and card viewer",
+    "linkText": "Learn More",
+    "linkUrl": "https://github.com/antigluten/amgi"
+  },
+  {
     "id": "amtrak-app-ux-redesign",
     "title": "Amtrak App UX Redesign",
     "medium": "Figma",
@@ -20,7 +32,7 @@
     "what": "A restructuring of the ticket purchasing and viewing flows in Amtrak’s mobile app, focused on accelerating and streamlining linear tasks, and improving the organization of the app to improve retention.",
     "why": "For me, the least enjoyable part of a great trip is being mad about mediocre software. I redirected that energy towards imagining a world where that software is just another part of what makes traveling great.",
     "image": "amtrak.png",
-    "imageAlt": "Screenshots of Amtrak App Prototype",
+    "imageAlt": "Screenshot of Amtrak app prototype",
     "linkText": "Learn More (Figma login required)",
     "linkUrl": "https://www.figma.com/deck/vJgijbMooVaSu4DcCWAdWZ/Leaf-Eriksen-Amtrak-Redesign"
   },
